@@ -1,0 +1,12 @@
+@"
+3lc==2.22.3
+joblib
+pytz
+umap-learn
+torch
+torchvision
+numpy
+pandas
+Pillow
+PyYAML
+"@ | Out-File -Encoding utf8 requirements.txt
